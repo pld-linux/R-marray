@@ -2,13 +2,13 @@
 
 Summary:	Exploratory analysis for two-color spotted microarray data
 Name:		R-%{packname}
-Version:	1.36.0
+Version:	1.40.0
 Release:	1
 License:	LGPL v2+
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	b1e405d59a2700942c441a67aa9b46cd
-URL:		http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+# Source0-md5:	c82aa82073cdbc4cfb4839fb196d5082
+URL:		http://bioconductor.org/packages/release/bioc/html/marray.html
 BuildRequires:	R
 BuildRequires:	R-limma
 BuildRequires:	R-tkWidgets
